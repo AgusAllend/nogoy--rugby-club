@@ -3,7 +3,7 @@ import haceteSocioFondo from '/images/foto7.JPG';
 
 const HaceteSocio = () => {
   return (
-    <div id="HaceteSocio" className="relative flex min-h-[70vh] min-w-full w-full items-center justify-center bg-cover bg-center bg-fixed" style={{ backgroundImage: `url(${haceteSocioFondo})` }}>
+    <div id="HaceteSocio" className="relative flex min-h-[70vh] min-w-full w-full items-center justify-center bg-cover bg-center bg-scroll md:bg-fixed" style={{ backgroundImage: `url(${haceteSocioFondo})` }}>
       <div className="absolute inset-0 bg-black/60"></div>
       <div className="relative flex flex-col items-center justify-center gap-6 p-14 text-center">
         <h2 className="text-4xl font-bold text-white md:text-6xl">Hacete Socio</h2>

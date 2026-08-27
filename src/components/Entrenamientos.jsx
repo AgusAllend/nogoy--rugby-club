@@ -3,7 +3,7 @@ import entrenamientosFondo from '/images/foto2.JPG';
 
 const Entrenamientos = () => {
   return (
-    <div id="Entrenamientos" className="relative w-full bg-cover bg-center bg-fixed" style={{ backgroundImage: `url(${entrenamientosFondo})` }}>
+    <div id="Entrenamientos" className="relative w-full bg-cover bg-center bg-scroll md:bg-fixed" style={{ backgroundImage: `url(${entrenamientosFondo})` }}>
       <div className="absolute inset-0 bg-black/60"></div>
       <div className="relative flex flex-col items-center justify-center gap-10 px-6 py-20 text-white md:py-28">
             <h1 className="text-4xl font-bold text-white md:text-6xl">Entrena con nosotros!</h1>
