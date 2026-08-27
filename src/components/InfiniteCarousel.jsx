@@ -1,24 +1,24 @@
 import { motion } from "framer-motion";
 
-import foto1 from "/public/images/foto1.JPG";
-import foto2 from "/public/images/foto2.JPG";
-import foto3 from "/public/images/foto3.JPG";
-import foto4 from "/public/images/foto4.JPG";
-import foto5 from "/public/images/foto5.JPG";
-import foto6 from "/public/images/foto6.JPG";
-import foto7 from "/public/images/foto7.JPG";
-import foto8 from "/public/images/foto8.JPG";
-import foto9 from "/public/images/foto9.JPG";
-import foto10 from "/public/images/foto10.JPG";
-import foto11 from "/public/images/foto11.JPG";
-import foto12 from "/public/images/foto12.JPG";
-import foto13 from "/public/images/foto13.JPG";
-import foto14 from "/public/images/foto14.JPG";
-import foto15 from "/public/images/foto15.JPG";
-import foto16 from "/public/images/foto16.JPG";
-import foto17 from "/public/images/foto17.JPG";
-import foto18 from "/public/images/foto18.JPG";
-import foto19 from "/public/images/foto19.JPG";
+import foto1 from "/images/foto1.JPG";
+import foto2 from "/images/foto2.JPG";
+import foto3 from "/images/foto3.JPG";
+import foto4 from "/images/foto4.JPG";
+import foto5 from "/images/foto5.JPG";
+import foto6 from "/images/foto6.JPG";
+import foto7 from "/images/foto7.JPG";
+import foto8 from "/images/foto8.JPG";
+import foto9 from "/images/foto9.JPG";
+import foto10 from "/images/foto10.JPG";
+import foto11 from "/images/foto11.JPG";
+import foto12 from "/images/foto12.JPG";
+import foto13 from "/images/foto13.JPG";
+import foto14 from "/images/foto14.JPG";
+import foto15 from "/images/foto15.JPG";
+import foto16 from "/images/foto16.JPG";
+import foto17 from "/images/foto17.JPG";
+import foto18 from "/images/foto18.JPG";
+import foto19 from "/images/foto19.JPG";
 
 const images = [
   foto1,

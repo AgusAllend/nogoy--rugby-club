@@ -1,11 +1,11 @@
 import { motion } from "framer-motion";
 
-import adhemix from "/public/images/Sponsors/Adhemix.jpeg";
-import almacen from "/public/images/Sponsors/almacen.jpeg";
-import danielDacello from "/public/images/Sponsors/DanielDacello.jpeg";
-import farmaciaDelCentro from "/public/images/Sponsors/FarmaciaDelCentro.jpeg";
-import laGruta from "/public/images/Sponsors/LaGruta.jpeg";
-import ospe from "/public/images/Sponsors/ospe.jpeg";
+import adhemix from "/images/Sponsors/Adhemix.jpeg";
+import almacen from "/images/Sponsors/almacen.jpeg";
+import danielDacello from "/images/Sponsors/DanielDacello.jpeg";
+import farmaciaDelCentro from "/images/Sponsors/FarmaciaDelCentro.jpeg";
+import laGruta from "/images/Sponsors/LaGruta.jpeg";
+import ospe from "/images/Sponsors/ospe.jpeg";
 
 const images = [
   adhemix,

@@ -3,10 +3,11 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/pagination";
 import { Pagination, Autoplay } from "swiper/modules";
+import primeraFondo from '/images/Primera.JPG';
 
 const Hero = () => {
   return (
-    <div id="home" className="relative px-16 flex min-h-screen w-full items-center justify-center py-28 md:px-32 bg-[url('public/images/Primera.jpg')] bg-cover bg-center">
+    <div id="home" className="relative px-16 flex min-h-screen w-full items-center justify-center py-28 md:px-32 bg-cover bg-center" style={{ backgroundImage: `url(${primeraFondo})` }}>
       <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/20 z-0" ></div>
         <div className="relative z-10 flex flex-col items-center justify-center gap-10 text-black ">
             <motion.div
